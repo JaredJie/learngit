@@ -12,3 +12,6 @@ woyou tijiaole
 dev啊
 
 提交到哪了？
+
+
+local只能pull？ dev push本次
